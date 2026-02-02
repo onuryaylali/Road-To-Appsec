@@ -1,4 +1,4 @@
-=======
+
 # AppSec & Network Security Study Log (2026)
 
 Welcome to my daily technical log. This repository documents my intensive 5-month journey toward becoming a specialized **Application Security (AppSec) Engineer**. 
