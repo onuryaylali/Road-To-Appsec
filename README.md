@@ -15,5 +15,6 @@ To maintain high technical standards and professional reporting formats—crucia
 | **001** | Jan 30 | HTTP Methods, Header Fields & Protocol Evolution | ✅ 3 Labs | [View Log](Days/2026-01-30.md) |
 | **002** | Feb 01 | TCP/UDP Mechanics & 3-Way Handshake Security | 📖 Theory | [View Log](Days/2026-02-01.md) |
 | **003** | Feb 02 | SSL/TLS Fundamentals & TLS 1.3 Evolution | 📖 Theory | [View Log](Days/2026-02-02.md) |
+| **004** | Feb 03 | Malware Analysis Pipeline: Sysmon, MITRE & AI | 🛠️ Project | [View Log](Days/2026-02-03.md) |
 ---
 **Contact:** onury894@gmail.com
