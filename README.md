@@ -19,5 +19,7 @@ To maintain high technical standards and professional reporting formats—crucia
 | **005** | Feb 04 | Computer Org: Memory Protection, MMU & RISC vs CISC | 📖 Theory | [View Log](Days/2026-02-04.md) |
 | **006** | Feb 05 | AuthN vs AuthZ, IDOR & Privilege Escalation | ✅ 11 Labs | [View Log](Days/2026-02-05.md) |
 | **007** | Feb 06 | Session Security, Centralized Auth & OAuth2/OIDC Deep Dive | 📖 Theory & Research | [View Log](Days/2026-02-06.md) |
+| **008** | Feb 07 | Entropy Math, CSPRNG vs PRNG & Cloud Entropy Starvation | 📖 Theory & Math | [View Log](Days/2026-02-07.md) |
+| **009** | Feb 08 | RFC 6265 Hardening, Session Rotation & Base64URL Encoding | 🛠️ Mitigation & RFC | [View Log](Days/2026-02-08.md) |
 ---
 **Contact:** onury894@gmail.com
