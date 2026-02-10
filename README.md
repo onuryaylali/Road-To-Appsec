@@ -21,5 +21,6 @@ To maintain high technical standards and professional reporting formats—crucia
 | **007** | Feb 06 | Session Security, Centralized Auth & OAuth2/OIDC Deep Dive | 📖 Theory & Research | [View Log](Days/2026-02-06.md) |
 | **008** | Feb 07 | Entropy Math, CSPRNG vs PRNG & Cloud Entropy Starvation | 📖 Theory & Math | [View Log](Days/2026-02-07.md) |
 | **009** | Feb 08 | RFC 6265 Hardening, Session Rotation & Base64URL Encoding | 🛠️ Mitigation & RFC | [View Log](Days/2026-02-08.md) |
+| **010** | Feb 09 | Anatomy of XSS: Reflected, Stored, DOM & OOB Deep Dive | 📖 Theory & Analysis | [View Log](Days/2026-02-09.md) |
 ---
 **Contact:** onury894@gmail.com
