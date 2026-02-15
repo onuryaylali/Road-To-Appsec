@@ -23,6 +23,7 @@ To maintain high technical standards and professional reporting formats—crucia
 | **009** | Feb 08 | RFC 6265 Hardening, Session Rotation & Base64URL Encoding | 🛠️ Mitigation & RFC | [View Log](Days/2026-02-08.md) |
 | **010** | Feb 09 | Anatomy of XSS: Reflected, Stored, DOM & OOB Deep Dive | 📖 Theory & Analysis | [View Log](Days/2026-02-09.md) |
 | **011** | Feb 12 | WAF Evasion, XSS-powered CSRF & Modern Defense (CSP/Trusted Types) | ✅ 2 Labs | [View Log](Days/2026-02-12.md) |
+| **012** | Feb 14 | REST Architecture, CRUD Security & API Security Fundamentals | 📖 Theory & Analysis | [View Log](Days/2026-02-14.md) |
 
 ---
 **Contact:** onury894@gmail.com
