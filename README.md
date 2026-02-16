@@ -24,6 +24,7 @@ To maintain high technical standards and professional reporting formats—crucia
 | **010** | Feb 09 | Anatomy of XSS: Reflected, Stored, DOM & OOB Deep Dive | 📖 Theory & Analysis | [View Log](Days/2026-02-09.md) |
 | **011** | Feb 12 | WAF Evasion, XSS-powered CSRF & Modern Defense (CSP/Trusted Types) | ✅ 2 Labs | [View Log](Days/2026-02-12.md) |
 | **012** | Feb 14 | REST Architecture, CRUD Security & API Security Fundamentals | 📖 Theory & Analysis | [View Log](Days/2026-02-14.md) |
+| **013** | Feb 15 | Mass Assignment, Object Mapping Risks & DTO Pattern | 📖 Theory & Research | [View Log](Days/2026-02-15.md) |
 
 ---
 **Contact:** onury894@gmail.com
