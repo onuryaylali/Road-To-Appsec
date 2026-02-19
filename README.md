@@ -25,6 +25,8 @@ To maintain high technical standards and professional reporting formats—crucia
 | **011** | Feb 12 | WAF Evasion, XSS-powered CSRF & Modern Defense (CSP/Trusted Types) | ✅ 2 Labs | [View Log](Days/2026-02-12.md) |
 | **012** | Feb 14 | REST Architecture, CRUD Security & API Security Fundamentals | 📖 Theory & Analysis | [View Log](Days/2026-02-14.md) |
 | **013** | Feb 15 | Mass Assignment, Object Mapping Risks & DTO Pattern | 📖 Theory & Research | [View Log](Days/2026-02-15.md) |
-
+| **014** | Feb 17 | CORS Mechanisms, Misconfigurations & Exploitation | 📖 Theory & Analysis | [View Log](Days/2026-02-17.md) |
+| **015** | Feb 18 | JWT (JSON Web Tokens) Deep Dive & Signature Vulnerabilities | 📖 Theory & Research | [View Log](Days/2026-02-18.md) |
+| **016** | Feb 19 | Cryptographic Fundamentals: Encoding, Hashing & KDFs | 📖 Theory & Math | [View Log](Days/2026-02-19.md) |
 ---
 **Contact:** onury894@gmail.com
